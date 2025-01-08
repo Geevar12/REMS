@@ -11,6 +11,6 @@ A platform to manage events for students, teachers, and event organizers at Raja
 Muhammed S. Suhail | [GitHub](https://github.com/svhl)\
 Deril Jose Thirunilath | [GitHub](https://github.com/deriljose)\
 Juan Jude Pereira | [GitHub](https://github.com/juanpereiira)\
-Geevar Saji Kuriakose
+Geevar Saji Kuriakose | [GitHub](https://github.com/Geevar12)\
 
 ## Copyright
